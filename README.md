@@ -1,2 +1,2 @@
 # GCSE.A-level
-GCSE and A-level programs
+A selection of GCSE and A-level programs not included in powerpoint lessons.
